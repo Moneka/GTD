@@ -1,6 +1,7 @@
 # GTD
 Visualization of Global Terrorism Data Base using R.
 
+Data set - "https://www.start.umd.edu/gtd/"
 Project can be viewed at "https://people.cs.clemson.edu/~mbommas/DataScience/"
 
 The GTD is an open source database which includes the information on terrorist events around the world from 1970 through 2015 (45 Years).
